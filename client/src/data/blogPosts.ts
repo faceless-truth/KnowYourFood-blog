@@ -264,4 +264,86 @@ The days of avoiding the freezer aisle are over. In 2026, Coles and Woolworths o
 Want to make finding healthy frozen meals even easier? Use the **KnowYourFood** app to scan barcodes in the freezer aisle at Coles, Woolworths, ALDI, or IGA. Instantly uncover the health scores, nutritional breakdowns, and hidden ingredients in your favourite ready meals. Stop guessing and start knowing—visit [https://www.knowyourfood.net](https://www.knowyourfood.net) to get started today.
 `
   }
+  ,
+{
+    slug: "is-milo-healthy-australia",
+    title: "Is Milo Healthy? The Truth About Australia's Favourite Chocolate Drink",
+    metaTitle: "Is Milo Healthy? Nutrition Facts & Health Score — KnowYourFood",
+    metaDescription: "Discover the truth about Milo's health benefits. We break down the nutrition facts, sugar content, and health star rating of Australia's favourite chocolate drink.",
+    keywords: "is milo healthy, milo nutrition facts, milo health score, milo sugar content, milo health star rating, milo protein, healthy chocolate drink australia",
+    excerpt: "It's an Australian childhood staple, but is Milo actually good for you? We dive into the nutrition facts, the sugar controversy, and the newer, healthier alternatives.",
+    author: "KnowYourFood Team",
+    publishDate: "2026-05-20",
+    readTime: "6 min read",
+    category: "Nutrition Science",
+    heroEmoji: "🥛",
+    content: `It's a staple in almost every Australian pantry, a nostalgic childhood memory, and a source of national pride. Whether you drink it hot, cold, or eat it straight from the tin with a spoon, Milo is an undeniable cultural icon. But when you look past the green tin and the sporting heroes on the label, a common question arises: **is Milo actually healthy?** 
+
+Marketed for decades as an energy-boosting, nutrient-rich drink for active kids, Milo has faced significant scrutiny in recent years over its sugar content and health claims. Let's break down the nutrition facts, the controversies, and the newer alternatives to see how Australia's favourite chocolate malt drink really stacks up.
+
+## The Nutritional Profile of Original Milo
+
+Milo was developed in Australia in 1934 by Thomas Mayne, who aimed to create a balanced food drink containing proteins, minerals, and vitamins to help children obtain enough nutrients during the Great Depression. Today, the recipe remains largely similar, consisting of four main ingredients: malt barley extract, milk powder, sugar, and cocoa.
+
+Here is a breakdown of the nutritional value per standard serving (20g, or about three heaped teaspoons) of the powder alone, without milk:
+
+| Nutrient | Amount per 20g Serve (Powder Only) | Amount per 20g Serve (with 200mL Skim Milk) |
+| :--- | :--- | :--- |
+| **Energy** | 320 kJ (80 Cal) | 620 kJ (150 Cal) |
+| **Protein** | 2.5 g | 10.0 g |
+| **Fat (Total)** | 1.9 g | 2.0 g |
+| **Carbohydrates** | 11.9 g | 22.8 g |
+| **Sugars** | 8.8 g | 19.8 g |
+| **Sodium** | 28 mg | 110 mg |
+| **Calcium** | 170 mg | 410 mg |
+| **Iron** | 3.6 mg | 3.6 mg |
+
+*Data sourced from standard Milo packaging available at Coles and Woolworths.*
+
+## The Health Benefits: Vitamins and Minerals
+
+Milo is fortified with several essential vitamins and minerals, which is the basis for its marketing as a nutritious energy drink. 
+
+### 1. Calcium for Bone Health
+A 20g serve of Milo powder provides 170mg of calcium. When mixed with a glass of milk, this jumps to over 400mg, which is roughly 50% of the recommended daily intake for an adult. This makes it an effective way to encourage children (and adults) who might otherwise avoid plain milk to consume enough calcium for healthy bone development.
+
+### 2. Iron and B Vitamins
+Milo contains added iron (3.6mg per serve, or 34% of the recommended daily intake) and a range of B vitamins, including Riboflavin (B2), Niacin (B3), B6, and B12. These nutrients are crucial for energy production and reducing fatigue, which aligns with the brand's focus on active lifestyles and sports.
+
+## The Drawback: The Sugar Controversy
+
+While the vitamin and mineral profile is a positive, the major nutritional downside of Milo is its **sugar content**. 
+
+A 20g serving of original Milo powder contains 8.8g of sugar. This means the powder itself is almost 45% sugar by weight. When you add 200mL of skim milk (which contains naturally occurring lactose), the total sugar content jumps to nearly 20g per glass—equivalent to about five teaspoons of sugar. 
+
+### The Health Star Rating Scandal
+In 2018, Nestlé faced significant backlash from health experts and consumer advocacy groups regarding Milo's Health Star Rating. The product proudly displayed a 4.5-star rating on the tin. However, this rating was calculated based on the product being consumed "as prepared" with skim milk. 
+
+Critics pointed out that the powder on its own would only score 1.5 stars due to its high sugar content. Furthermore, many Australians consume Milo with full-cream milk, or use far more than the recommended three teaspoons, significantly altering the nutritional profile. Following the controversy, Nestlé voluntarily removed the Health Star Rating from Milo packaging in Australia and New Zealand.
+
+## Healthier Alternatives: The New Milo Range
+
+In response to changing consumer preferences and the demand for healthier options, Nestlé has expanded the Milo range in recent years. If you love the taste but want to improve the nutritional profile, you now have several choices at Coles, Woolworths, and ALDI.
+
+### 1. Milo 30% Less Added Sugar
+Introduced as a direct response to the sugar concerns, this version replaces some of the cane sugar with stevia, a natural, calorie-free sweetener. It retains the malt barley, milk powder, and cocoa, offering a very similar taste profile but with significantly less added sugar. This is a great option for parents wanting to reduce their children's sugar intake without sacrificing the classic Milo flavour.
+
+### 2. Milo PRO (High Protein)
+Marketed towards fitness enthusiasts and older teenagers, Milo PRO contains added dairy protein. While a standard serve of Milo has 2.5g of protein, the PRO version boosts this, aiming to help with muscle recovery after exercise. However, it's worth noting that much of the protein claim on the front of the tin relies on the protein naturally found in the milk you mix it with.
+
+### 3. Milo Plant-Based Energy
+For those who are lactose intolerant or following a vegan diet, Nestlé released a dairy-free version of Milo. It replaces the milk powder with soy and oat flour while maintaining the core cocoa and malt flavours. It is also slightly lower in sugar than the original recipe.
+
+## The Verdict: Is Milo Healthy?
+
+So, is Milo healthy? The answer is: **it depends on how you consume it.**
+
+As an occasional treat or a post-sport recovery drink, Milo provides a genuine nutritional boost, offering valuable calcium, iron, and B vitamins. It is certainly a healthier choice than soft drinks, cordials, or heavily processed fruit juices.
+
+However, due to its high sugar content, it should not be viewed as a health food or consumed in unlimited quantities. If you are drinking it daily, or if you are heavy-handed with the spoon (the classic "mountain of Milo" on top of the milk), the excess sugar and calories can quickly outweigh the benefits of the added vitamins.
+
+For a healthier daily habit, consider switching to **Milo 30% Less Added Sugar**, stick to the recommended serving size of three teaspoons, and mix it with reduced-fat or skim milk.
+
+Want to see how your other favourite pantry staples stack up? Use the **KnowYourFood** app to scan barcodes at the supermarket and instantly uncover the health scores, nutritional breakdowns, and hidden ingredients in your everyday groceries. Make smarter, healthier choices on your next shop by visiting [https://www.knowyourfood.net](https://www.knowyourfood.net) today!`
+}
 ];
