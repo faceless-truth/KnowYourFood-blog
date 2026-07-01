@@ -713,5 +713,104 @@ Shopping healthy at ALDI Australia is entirely possible and can save you a signi
 By reading nutrition labels, choosing unsweetened and unflavored options, and prioritizing fresh or snap-frozen ingredients, you can build a highly nutritious diet entirely from ALDI's shelves.
 
 Want to make your ALDI shopping trips even easier? Use the **KnowYourFood** app to scan barcodes while you shop. Whether you are at ALDI, Coles, Woolworths, or IGA, KnowYourFood instantly reveals health scores, nutritional breakdowns, and hidden ingredients, helping you make the best choices for your body and your budget. Stop guessing and start knowing—visit [https://www.knowyourfood.net](https://www.knowyourfood.net) to download the app and transform your grocery shopping today.`
+  },
+  {
+    slug: "healthiest-pasta-rice-australia",
+    title: "Healthiest Pasta and Rice Options at Australian Supermarkets",
+    metaTitle: "Healthiest Pasta & Rice at Australian Supermarkets — KnowYourFood",
+    metaDescription: "Discover the healthiest pasta and rice options at Coles, Woolworths, and ALDI. We compare low GI rice, legume pasta, and wholemeal choices for a healthier diet.",
+    keywords: "healthiest pasta australia, healthy rice coles woolworths, low GI rice australia, legume pasta aldi, wholemeal pasta australia",
+    excerpt: "Love your carbs but want to make healthier choices? We review the best pasta and rice options available at Australian supermarkets to help you eat well without sacrificing taste.",
+    author: "KnowYourFood Team",
+    publishDate: "2026-07-01",
+    readTime: "8 min read",
+    category: "Supermarket Guides",
+    heroEmoji: "🍝",
+    content: `Pasta and rice are absolute staples in Australian households. They are affordable, versatile, and form the base of countless family-favourite meals, from hearty spaghetti bolognese to a quick midweek stir-fry. However, with the rise of low-carb diets and a growing awareness of how refined carbohydrates affect blood sugar, many people have started to view these pantry staples with suspicion. 
+
+The truth is, you don't need to cut out pasta and rice to maintain a healthy diet. The key is choosing the *right* types of carbohydrates and being mindful of portion sizes. In 2026, the shelves at Coles, Woolworths, and ALDI are packed with innovative, healthier alternatives to traditional white pasta and rice. Let's explore the best options available for your next grocery run.
+
+## The Problem with Refined Carbohydrates
+
+Traditional white pasta and white rice are refined carbohydrates. During processing, the nutrient-rich bran and germ are removed, leaving behind mostly the starchy endosperm. While this gives them a longer shelf life and a softer texture, it also strips away most of the dietary fibre, vitamins, and minerals.
+
+Because they lack fibre, refined carbohydrates are digested very quickly. This can lead to a rapid spike in blood sugar levels, followed by a crash that leaves you feeling sluggish and hungry again shortly after eating. This is why a massive bowl of white pasta can sometimes feel like a recipe for a food coma.
+
+When looking for healthier alternatives, the goal is to find options that are higher in fibre, lower on the Glycaemic Index (GI), and ideally, pack a bit more protein to help keep you fuller for longer.
+
+## Top Picks: The Healthiest Pasta Options
+
+The pasta aisle has undergone a massive transformation in recent years. You are no longer limited to just white or wholemeal wheat pasta.
+
+### 1. Legume Pasta: The Protein Powerhouse
+
+Pasta made entirely from legumes—such as red lentils, chickpeas, or green peas—is arguably the healthiest innovation in the pasta aisle. Because they are made from pulses, they are naturally gluten-free and boast a significantly higher protein and fibre content than wheat-based pasta.
+
+**San Remo Pulse Pasta** is widely available at Coles and Woolworths. Their Red Lentil or Chickpea varieties offer around 20g of protein and 8g of fibre per 100g serve. This massive boost in protein and fibre means you will feel satisfied with a smaller portion, making it an excellent choice for weight management and sustained energy.
+
+At ALDI, look out for their **Just Organic** range, which often features excellent and affordable red lentil or edamame spaghetti.
+
+### 2. Wholemeal and Spelt Pasta: The High-Fibre Classics
+
+If you prefer the taste and texture of traditional wheat pasta, wholemeal is a fantastic upgrade from white. It retains the bran and germ of the wheat kernel, meaning it has roughly twice the fibre of white pasta and more essential B vitamins.
+
+**Barilla Wholewheat Pasta** is a premium option that cooks beautifully and doesn't become overly mushy, a common complaint with cheaper wholemeal brands. 
+
+For those who find regular wheat heavy on the stomach, **Spelt Pasta** (like the San Remo Spelt range) is an excellent alternative. Spelt is an ancient grain that many people find easier to digest, and it offers a slightly nutty flavour that pairs wonderfully with robust sauces.
+
+### 3. Edamame and Soybean Pasta: The Low-Carb Option
+
+For those strictly watching their carbohydrate intake, pasta made from edamame (young soybeans) or black beans is the ultimate low-carb choice.
+
+**Slendier Edamame Spaghetti** (available at Woolworths) contains a fraction of the carbohydrates found in regular pasta, while delivering a huge hit of plant-based protein. The texture is slightly chewier than traditional pasta, but it holds up incredibly well in Asian-inspired dishes and stir-fries.
+
+## Top Picks: The Healthiest Rice Options
+
+When it comes to rice, the healthiest choices are those that digest slowly and provide sustained energy.
+
+### 1. Basmati Rice: The Everyday Winner
+
+You might be surprised to learn that white Basmati rice is actually a healthier choice than standard medium or short-grain white rice. Basmati contains a higher proportion of amylose, a type of starch that digests more slowly. 
+
+This gives Basmati a medium Glycaemic Index (GI of around 50-58), meaning it won't spike your blood sugar as aggressively. Brands like **Tilda** or **SunRice Basmati** are excellent staples.
+
+### 2. Brown Rice: The Whole Grain Standard
+
+Brown rice is simply white rice that hasn't had its bran and germ removed. It takes longer to cook and has a chewier, nuttier texture, but the nutritional payoff is worth it. It contains significantly more fibre, magnesium, and antioxidants than white rice.
+
+**SunRice Brown Rice** is a reliable choice available everywhere. For a more aromatic option, try **Brown Basmati**, which combines the whole-grain benefits of brown rice with the lower GI of Basmati.
+
+### 3. Low GI White Rice: The Clever Compromise
+
+If your family absolutely refuses to eat brown rice, look for specifically formulated Low GI White Rice. Originally known as Doongara rice, this is a uniquely Australian-grown long-grain rice that has been cultivated to have a lower GI than regular white rice.
+
+**SunRice Low GI White Rice** cooks and tastes almost identical to standard white rice but provides a slower, steadier release of energy, making it a much smarter choice for everyday family meals.
+
+### 4. Black and Red Rice: The Antioxidant Heroes
+
+If you want to maximize your nutritional intake, look for black or red rice. These ancient varieties are nutritional powerhouses, packed with anthocyanins—the same potent antioxidants found in blueberries. They have a robust, earthy flavour and are fantastic in salads or as a side dish for grilled fish. You can often find them in the health food aisle or the international section of larger Coles and Woolworths stores.
+
+## Comparing the Carbs: Nutritional Breakdown
+
+To help you make an informed decision on your next grocery run, here is a comparison of some popular pasta and rice options. All values are approximate per 100g dry/uncooked weight.
+
+| Food Item (Per 100g Dry) | Calories | Protein | Fibre | Carbohydrates |
+| :--- | :--- | :--- | :--- | :--- |
+| **Standard White Pasta** | 350 kcal | 12.0 g | 3.0 g | 71.0 g |
+| **San Remo Red Lentil Pasta** | 335 kcal | 24.0 g | 11.0 g | 50.0 g |
+| **Barilla Wholewheat Pasta** | 340 kcal | 13.0 g | 8.0 g | 65.0 g |
+| **Standard White Rice** | 350 kcal | 7.0 g | 1.0 g | 78.0 g |
+| **Brown Basmati Rice** | 355 kcal | 8.5 g | 4.0 g | 72.0 g |
+| **SunRice Low GI White Rice** | 345 kcal | 8.0 g | 1.5 g | 75.0 g |
+
+*Note: Nutritional values are approximate and can vary slightly by brand. Always check the packaging at the point of purchase.*
+
+## The Bottom Line on Pasta and Rice
+
+You don't need to fear the carbohydrate aisle. By making simple swaps—like upgrading to legume pasta for a protein boost, or switching from standard white rice to Basmati or Low GI varieties—you can enjoy your favourite meals while keeping your blood sugar stable and your energy levels high.
+
+Remember, portion size is just as important as the type of grain you choose. Aim to fill half your plate with non-starchy vegetables, a quarter with lean protein, and the final quarter with your healthy pasta or rice of choice.
+
+Want to take the guesswork out of your grocery shopping? Use the **KnowYourFood** app to scan barcodes at Coles, Woolworths, ALDI, or IGA and instantly uncover the health scores, nutritional breakdowns, and hidden ingredients in your favourite pantry staples. Stop guessing and start knowing—visit [https://www.knowyourfood.net](https://www.knowyourfood.net) to get started today.`
   }
 ];
